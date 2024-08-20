@@ -10,6 +10,7 @@ The Grocery Delivery Application is designed to provide users with a simple and 
 **Collections (HashMap):** The application uses Java's HashMap to store the grocery items along with their prices and to keep track of the items added to the cart. This provides efficient data management and quick access to item details.
 
 **The application features three main panels:**
+
 **BrowsePanel:** Displays the available grocery items and allows users to add items to their cart.
 
 **CartPanel:** Shows the items currently in the user's cart, along with their quantities and total cost.
